@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+    <string name="wktime">Work</string>
+    <string name="bktime">Break</string>
+</resources>
